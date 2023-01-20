@@ -1,17 +1,16 @@
-### Hi, I'm Simon (he/him) 👋👋👋
+## Hi, I'm Simon (he/him)
 
-<img src="profilepic.jpg" alt="my profile pic" width="300"/>
+<img src="avi.png" alt="my avatar" width="300"/>
 
 ## I am...
 
-<img src="/computer-solid.svg"> Learning to be a developer as a part of Founders and Coders' FAC27 cohort
-- (Almost) an ex-teacher who is fascinated by the possibilities of EdTech to improve education.
-- A musician who loves to be creative and explore the intersection of the arts and tech.
+💻 Learning to be a developer as a part of Founders and Coders' FAC27 cohort <br>
+👨‍🏫 An ex-teacher who is fascinated by the possibilities of EdTech to improve education <br>
+🎹 A musician who loves to be creative and explore the intersection of the arts and tech <br>
 
+## Current tech stack
 
-I was going to show it to you at some point anyway.
-
-
+<img src="html.png" alt="html icon" width="48"/> <img src="css.png" alt="css icon" width="48"/><img src="js.png" alt="javascript icon" width="48"/>
 
 <!--
 **simonryrie/simonryrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
