@@ -1,16 +1,13 @@
-# Hi, I'm Simon (he/him) 👋👋👋
+### Hi, I'm Simon (he/him) 👋👋👋
 
-<img src="avi.png" alt="an ai-generated avatar of myself">
+<img src="profilepic.jpg" alt="my profile pic" width="300"/>
 
 ## I am...
 
-🖥️ Learning to be a developer as a part of <a href="https://www.foundersandcoders.com/">Founders and Coders'</a> FAC27 cohort <br>
-👨‍🏫 (Almost) an ex-teacher who is fascinated by the possibilities of EdTech to improve education <br>
-🎹 A musician who loves to be creative and explore the intersection of tech and the arts <br>
+<img src="/computer-solid.svg"> Learning to be a developer as a part of Founders and Coders' FAC27 cohort
+- (Almost) an ex-teacher who is fascinated by the possibilities of EdTech to improve education.
+- A musician who loves to be creative and explore the intersection of the arts and tech.
 
-## A photo of my cat
-
-<img src="musuko.jpg" alt="my profile pic" width="300"/>
 
 I was going to show it to you at some point anyway.
 
