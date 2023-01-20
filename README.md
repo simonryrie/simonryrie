@@ -1,6 +1,6 @@
 # Hi, I'm Simon (he/him) 👋👋👋
 
-
+<img src="avi.png" alt="an ai-generated avatar of myself">
 
 ## I am...
 
