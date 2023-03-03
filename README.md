@@ -13,21 +13,21 @@
 - Getting to grips with semantic HTML and accessibility, HTTP and asynchronous JavaScript, and building my own testing library
 - Building a mock <a href="https://fac27.github.io/AgencyWebsite/">Agency Website</a> and <a href="https://github.com/fac27/HearHere">Hear Here</a>, a global audio guessing game 🌍
 
-## I'd love to hear from you!
-
-<a href="https://www.linkedin.com/in/simon-ryrie/">
-  <img src="https://user-images.githubusercontent.com/112886847/221992204-4ad81986-70c9-4877-83af-7fbc636ea932.png" alt="LinkedIn logo" width="75rem">
-</a>
-
 ## Current tech stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Ruby icon" width="50rem">
       
 ## Coming soon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next JS icon" width="50rem">
-          
-<br>
+  
+## I'd love to hear from you!
 
+<a href="https://www.linkedin.com/in/simon-ryrie/">
+  <img src="https://user-images.githubusercontent.com/112886847/221992204-4ad81986-70c9-4877-83af-7fbc636ea932.png" alt="LinkedIn logo" width="75rem">
+</a>
+
+<br>
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonryrie&theme=tokyonight" alt="mystreak"/>
 
 <!--
