@@ -1,7 +1,5 @@
 ## Hi, I'm Simon 👋
 
-<img src="https://user-images.githubusercontent.com/112886847/221986586-dffda8ba-6356-4d6e-97ab-3cca53455e07.png" alt="An AI-generated image of a brown-haired software developer with a beard" width="300rem">
-
 💻 **Software developer**<br>
 *with a background in* <br>
 👨‍🏫 **Teaching** and <br>
@@ -13,11 +11,9 @@
 - Getting to grips with semantic HTML and accessibility, HTTP and asynchronous JavaScript, and building my own testing library
 - Building a mock <a href="https://fac27.github.io/AgencyWebsite/">Agency Website</a> and <a href="https://github.com/fac27/HearHere">Hear Here</a>, a global audio guessing game 🌍
 
-## Current tech stack
+## I am currently learning...
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Ruby icon" width="50rem">
-      
-## Coming soon
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next JS icon" width="50rem">
   
 ## I'd love to hear from you!
