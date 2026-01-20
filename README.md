@@ -1,20 +1,65 @@
 ## Hi, I'm Simon 👋
 
-💻 **Software developer**<br>
-*with a background in* <br>
-👨‍🏫 **Teaching** and <br>
-🎹 **Music**
-
 ## Recently, I have been...
 
-- Working hard on <a href="https://www.foundersandcoders.com/">Founders and Coders'</a> Skills Bootcamp (FAC27 cohort ✨)
-- Getting to grips with semantic HTML and accessibility, HTTP and asynchronous JavaScript, and building my own testing library
-- Building a mock <a href="https://fac27.github.io/AgencyWebsite/">Agency Website</a> and <a href="https://github.com/fac27/HearHere">Hear Here</a>, a global audio guessing game 🌍
+- Building and maintaining ecommerce solutions for global brands with SOON_
+- Developing Otherwhere, a travel inspiration app with a tags-based ranking algorithm and AI-powered natural language processing
+- Designing a climbing-themed website for award-winning author Iain Peters
+- Working on a flashy portfolio with GSAP animations to show off my projects
 
-## I am currently learning...
+## My tech skills...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Ruby icon" width="50rem">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node icon" width="50rem"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next JS icon" width="50rem">
+### Frontend
+
+<p> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="TypeScript" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="TypeScript" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="React" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="React" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Next.js" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Next.js" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/svelte.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Svelte" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/svelte.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Svelte" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Tailwind CSS" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Tailwind CSS" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/storybook.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Storybook" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/storybook.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Storybook" /> 
+</p>
+
+### Backend & APIs
+
+<p> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Node.js" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Node.js" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/go.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Go" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/go.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Go" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Python" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Python" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/graphql.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="GraphQL" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/graphql.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="GraphQL" /> 
+</p>
+
+### Platform & Cloud
+
+<p> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Google Cloud" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Google Cloud" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gitlab.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="GitLab" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gitlab.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="GitLab" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="GitHub" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="GitHub" /> 
+</p>
+
+### Testing & Quality
+
+<p> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vitest.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Vitest" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vitest.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Vitest" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cypress.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Cypress" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cypress.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Cypress" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/lighthouse.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Lighthouse" /> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/lighthouse.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Lighthouse" /> 
+</p>
   
 ## I'd love to hear from you!
 
@@ -22,21 +67,3 @@
   <img src="https://user-images.githubusercontent.com/112886847/221992204-4ad81986-70c9-4877-83af-7fbc636ea932.png" alt="LinkedIn logo" width="75rem">
 </a>
 
-<br>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simonryrie&theme=tokyonight" alt="mystreak"/>
-
-<!--
-**simonryrie/simonryrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
