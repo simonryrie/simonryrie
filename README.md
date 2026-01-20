@@ -11,59 +11,106 @@
 
 ### Frontend
 
-<p> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="TypeScript" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="TypeScript" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="React" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="React" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Next.js" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Next.js" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/svelte.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Svelte" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/svelte.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Svelte" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Tailwind CSS" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Tailwind CSS" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/storybook.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Storybook" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/storybook.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Storybook" /> 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/typescript-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/typescript-light.svg">
+    <img src="./assets/typescript-light.svg" height="26" alt="TypeScript">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/react-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/react-light.svg">
+    <img src="./assets/react-light.svg" height="26" alt="React">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/nextdotjs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/nextdotjs-light.svg">
+    <img src="./assets/nextdotjs-light.svg" height="26" alt="Next.js">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svelte-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/svelte-light.svg">
+    <img src="./assets/svelte-light.svg" height="26" alt="Svelte">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tailwindcss-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tailwindcss-light.svg">
+    <img src="./assets/tailwindcss-light.svg" height="26" alt="Tailwind CSS">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/storybook-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/storybook-light.svg">
+    <img src="./assets/storybook-light.svg" height="26" alt="Storybook">
+  </picture>
 </p>
 
 ### Backend & APIs
 
-<p> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Node.js" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Node.js" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/go.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Go" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/go.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Go" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Python" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Python" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/graphql.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="GraphQL" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/graphql.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="GraphQL" /> 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/nodedotjs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/nodedotjs-light.svg">
+    <img src="./assets/nodedotjs-light.svg" height="26" alt="Node.js">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/go-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/go-light.svg">
+    <img src="./assets/go-light.svg" height="26" alt="Go">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/python-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/python-light.svg">
+    <img src="./assets/python-light.svg" height="26" alt="Python">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/graphql-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/graphql-light.svg">
+    <img src="./assets/graphql-light.svg" height="26" alt="GraphQL">
+  </picture>
 </p>
 
 ### Platform & Cloud
 
-<p> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Google Cloud" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlecloud.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Google Cloud" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gitlab.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="GitLab" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gitlab.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="GitLab" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="GitHub" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="GitHub" /> 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/googlecloud-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/googlecloud-light.svg">
+    <img src="./assets/googlecloud-light.svg" height="26" alt="Google Cloud">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/gitlab-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/gitlab-light.svg">
+    <img src="./assets/gitlab-light.svg" height="26" alt="GitLab">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-light.svg">
+    <img src="./assets/github-light.svg" height="26" alt="GitHub">
+  </picture>
 </p>
 
 ### Testing & Quality
 
-<p> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vitest.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Vitest" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vitest.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Vitest" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cypress.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Cypress" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cypress.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Cypress" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/lighthouse.svg?color=ffffff&v=3#gh-dark-mode-only" height="26" alt="Lighthouse" /> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/lighthouse.svg?color=111827&v=3#gh-light-mode-only" height="26" alt="Lighthouse" /> 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/vitest-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/vitest-light.svg">
+    <img src="./assets/vitest-light.svg" height="26" alt="Vitest">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cypress-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cypress-light.svg">
+    <img src="./assets/cypress-light.svg" height="26" alt="Cypress">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lighthouse-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/lighthouse-light.svg">
+    <img src="./assets/lighthouse-light.svg" height="26" alt="Lighthouse">
+  </picture>
 </p>
-  
+
 ## I'd love to hear from you!
 
 <a href="https://www.linkedin.com/in/simon-ryrie/">
   <img src="https://user-images.githubusercontent.com/112886847/221992204-4ad81986-70c9-4877-83af-7fbc636ea932.png" alt="LinkedIn logo" width="75rem">
 </a>
-
